@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Z-BOT",
   "version": "1.7.0",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "Z-BOT, Only update in YouTube Zen",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Zen",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
